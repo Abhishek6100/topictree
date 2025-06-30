@@ -1,0 +1,10 @@
+/node_modules
+package-lock.json
+dist/
+.idea/
+.DS_Store
+src/.DS_Store
+src/app/.DS_Store
+.next/
+.env*.local
+/.next
